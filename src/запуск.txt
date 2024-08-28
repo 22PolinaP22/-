@@ -1,0 +1,8 @@
+установка пакетов
+npm install
+
+запуск в dev
+npm run dev
+
+сборка для prod
+npm run prod
